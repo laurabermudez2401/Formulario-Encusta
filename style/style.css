@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+body{   
+    background-image: url("https://www.marykay.com.mx/-/media/images/mk/south-america/mexico/esuite/tips-y-tendencias/lo-nuevo/2021/11_noviembre/peeloff/h1-mascarilla-peel-off.jpg");
+    font-family: cursive;
+    font-size: 20px;
+   
+}
+.contenedor-Formulario {
+    width: 700px;  
+    margin-left: 20px;
+    margin-top: 100px;
+    background-position: center;
+    background-color: rosybrown;
+    border-radius: 15px;
+    padding: 50px;
+    
+}
+#inputName, #inputEmail, #inputAge, #opcion{
+    
+    width: 500px;
+    height: 30px;
+    border-radius: 15px;
+   ;
+}
+
+.recomen, .form-check-input {
+    width: 50px;
+    border-radius: 15px;    
+}
+
+.seleccion {
+    width: 500px;
+    height: 30px;
+    border-radius: 15px;
+   ;
+}
+
+.btnEnviar {
+    margin: 15px;
+    border-radius: 15px;
+}
